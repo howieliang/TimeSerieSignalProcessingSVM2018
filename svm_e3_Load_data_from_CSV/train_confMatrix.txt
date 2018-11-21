@@ -1,0 +1,15 @@
+Linear-Kernel SVM
+Feature #:2
+C:64.0
+5-Fold Cross Validation
+
+Confusion Matrix:
+	[0]	[1]	[2]	[3]	Total	
+[0]	10	0	0	0	10	
+[1]	0	10	0	0	10	
+[2]	0	0	10	0	10	
+[3]	0	0	0	0	0	
+Total	10	10	10	0	
+correct/tested = 30/30
+overall accuracy = 100.0 %
+time elapsed: 0.028 (s)
